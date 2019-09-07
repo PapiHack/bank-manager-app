@@ -1,0 +1,6 @@
+/home/papihack/Projects/GestionBanque/GestionBanque/bin/Debug/GestionBanque.exe
+/home/papihack/Projects/GestionBanque/GestionBanque/bin/Debug/GestionBanque.pdb
+/home/papihack/Projects/GestionBanque/GestionBanque/obj/x86/Debug/GestionBanque.csprojAssemblyReference.cache
+/home/papihack/Projects/GestionBanque/GestionBanque/obj/x86/Debug/GestionBanque.csproj.CoreCompileInputs.cache
+/home/papihack/Projects/GestionBanque/GestionBanque/obj/x86/Debug/GestionBanque.exe
+/home/papihack/Projects/GestionBanque/GestionBanque/obj/x86/Debug/GestionBanque.pdb

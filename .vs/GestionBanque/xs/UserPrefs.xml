@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{220C25BD-1C2E-4F81-A0B5-AF92E4899420}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GestionBanque/Program.cs">
+    <Files>
+      <File FileName="GestionBanque/Program.cs" Line="12" Column="50" />
+      <File FileName="GestionBanque/Compte.cs" Line="16" Column="18" />
+      <File FileName="GestionBanque/CompteCourant.cs" Line="4" Column="2" />
+      <File FileName="GestionBanque/CompteEpargne.cs" Line="13" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GestionBanque" expanded="True">
+            <Node name="GestionBanque" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GestionBanque PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

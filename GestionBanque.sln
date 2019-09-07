@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionBanque", "GestionBanque\GestionBanque.csproj", "{220C25BD-1C2E-4F81-A0B5-AF92E4899420}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{220C25BD-1C2E-4F81-A0B5-AF92E4899420}.Debug|x86.ActiveCfg = Debug|x86
+		{220C25BD-1C2E-4F81-A0B5-AF92E4899420}.Debug|x86.Build.0 = Debug|x86
+		{220C25BD-1C2E-4F81-A0B5-AF92E4899420}.Release|x86.ActiveCfg = Release|x86
+		{220C25BD-1C2E-4F81-A0B5-AF92E4899420}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
